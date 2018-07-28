@@ -18,6 +18,10 @@ public class HelloServlet extends HttpServlet {
             e.printStackTrace();
         }
 
+        int a =10;
+        int b=9;
+
     }
+ 
 
 }
