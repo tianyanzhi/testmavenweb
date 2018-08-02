@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.util.Date;
 
 //test commit
-
 public class HelloServlet extends HttpServlet {
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) {
@@ -18,10 +17,6 @@ public class HelloServlet extends HttpServlet {
             e.printStackTrace();
         }
 
-        int a =10;
-        int b=9;
-
     }
- 
 
 }
